@@ -44,7 +44,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIAqWHkaVY4tE="
 							},
-							"name": "GerisonHoxha_Story3",
+							"name": "Story3",
 							"ownedViews": [
 								{
 									"_type": "UMLFrameView",
@@ -63,9 +63,9 @@
 												"$ref": "AAAAAAGIAqWHkqVav4M="
 											},
 											"font": "Arial;13;0",
-											"left": 30.55908203125,
+											"left": 32.72998046875,
 											"top": 13,
-											"width": 35.6708984375,
+											"width": 38.57177734375,
 											"height": 13,
 											"text": "Story3"
 										},
@@ -78,7 +78,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 12.55908203125,
+											"width": 14.72998046875,
 											"height": 13,
 											"text": "sd"
 										}
